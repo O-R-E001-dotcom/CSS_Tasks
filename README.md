@@ -44,6 +44,7 @@ TASK 7:
 
 TASK 8
 Header:
+
 <img width="879" height="128" alt="Image" src="https://github.com/user-attachments/assets/afad9c44-576b-4f78-aee0-cbc76ffeaa06" />
 
 Sidebar:
