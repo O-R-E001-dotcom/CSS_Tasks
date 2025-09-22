@@ -1,5 +1,5 @@
 
-TASK 1: (https://github.com/user-attachments/assets/1328efb3-df10-45a4-ab33-afde4a0a59ab)
+TASK 1: ![Image](https://github.com/user-attachments/assets/f487790a-103f-4a82-a7a8-c0d466d09d89)
 
 TASK 2:
 (https://github.com/user-attachments/assets/31593389-ef13-4b7a-84ea-094d10f6788b)
